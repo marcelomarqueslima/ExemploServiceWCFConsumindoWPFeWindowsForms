@@ -1,0 +1,15 @@
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\bin\Debug\WpfCategoria.exe.config
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\bin\Debug\WpfCategoria.exe
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\bin\Debug\WpfCategoria.pdb
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\WpfCategoria.csproj.AssemblyReference.cache
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\MainWindow.g.cs
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\App.g.cs
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\WpfCategoria_MarkupCompile.cache
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\WpfCategoria_MarkupCompile.lref
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\MainWindow.baml
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\WpfCategoria.g.resources
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\WpfCategoria.Properties.Resources.resources
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\WpfCategoria.csproj.GenerateResource.cache
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\WpfCategoria.csproj.CoreCompileInputs.cache
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\WpfCategoria.exe
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WpfCategoria\obj\Debug\WpfCategoria.pdb
