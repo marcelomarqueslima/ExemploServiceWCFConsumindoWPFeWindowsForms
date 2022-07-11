@@ -7,6 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="28" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="300" />
+        </Grid.ColumnDefinitions>
+        <Label   Grid.Row="0" Grid.Column="0" Content="ID:"/>
+        <Label   Grid.Row="0" Grid.Column="1" Content=""/>
+        <Label   Grid.Row="1" Grid.Column="0" Content="Descrição da Categoria: "/>
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="3" />
+        <Button  Grid.Row="3" Grid.Column="1" HorizontalAlignment="Right" MinWidth="80" Margin="3" Content="Salvar" />
     </Grid>
 </Window>

@@ -12,9 +12,17 @@ namespace WcfServiceCategoria
     [ServiceContract]
     public interface IService1
     {
+        [OperationContract]
+        string getCategoria(int id);
 
         [OperationContract]
-        string GetData(int value);
+        string EditCategoria(int id, string value);
+
+        [OperationContract]
+        string DeleteCategoria(int id);
+
+        [OperationContract]
+        string CriarCategoria(string value);
 
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);

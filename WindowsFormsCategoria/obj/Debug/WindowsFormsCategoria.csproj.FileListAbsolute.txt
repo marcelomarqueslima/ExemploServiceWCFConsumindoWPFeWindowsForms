@@ -1,0 +1,10 @@
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WindowsFormsCategoria\bin\Debug\WindowsFormsCategoria.exe.config
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WindowsFormsCategoria\bin\Debug\WindowsFormsCategoria.exe
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WindowsFormsCategoria\bin\Debug\WindowsFormsCategoria.pdb
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WindowsFormsCategoria\obj\Debug\WindowsFormsCategoria.csproj.AssemblyReference.cache
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WindowsFormsCategoria\obj\Debug\WindowsFormsCategoria.Properties.Resources.resources
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WindowsFormsCategoria\obj\Debug\WindowsFormsCategoria.csproj.GenerateResource.cache
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WindowsFormsCategoria\obj\Debug\WindowsFormsCategoria.csproj.CoreCompileInputs.cache
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WindowsFormsCategoria\obj\Debug\WindowsFormsCategoria.exe
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WindowsFormsCategoria\obj\Debug\WindowsFormsCategoria.pdb
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WindowsFormsCategoria\obj\Debug\WindowsFormsCategoria.Form1.resources

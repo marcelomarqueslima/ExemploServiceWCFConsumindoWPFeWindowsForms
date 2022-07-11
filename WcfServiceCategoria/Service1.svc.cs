@@ -1,10 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.Serialization;
-using System.ServiceModel;
-using System.ServiceModel.Web;
-using System.Text;
 
 namespace WcfServiceCategoria
 {
@@ -12,9 +7,61 @@ namespace WcfServiceCategoria
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class Service1 : IService1
     {
-        public string GetData(int value)
+        public string getCategoria(int id)
         {
-            return string.Format("You entered: {0}", value);
+            string Saida = "";
+
+            try
+            {
+                localdbEntities context = new localdbEntities();
+                Categorias categoria = context.Categorias.Single
+                                  (a => a.Id == id);
+                Saida = categoria.Categoria;
+            }
+            catch {
+                Saida = "Não existe";
+            }
+            return Saida;
+        }
+
+        public string EditCategoria(int id, string value)
+        {
+            localdbEntities context = new localdbEntities();
+            Categorias categoria = (from a in context.Categorias
+                                    where a.Id == id
+                                    select a).First();
+            categoria.Categoria = value;
+            context.SaveChanges();
+            return "Categoria alterada";
+        }
+
+        public string DeleteCategoria(int id)
+        {
+            string Saida = "";
+
+            try
+            {
+                localdbEntities context = new localdbEntities();
+                Categorias categoria = context.Categorias.Single
+                               (a => a.Id == id);
+                context.Categorias.Remove(categoria);
+                context.SaveChanges();
+            }
+            catch
+            {
+                Saida = "Não Existe";
+            }
+            return Saida;
+        }
+
+        public string CriarCategoria(string value)
+        {
+            localdbEntities context = new localdbEntities();
+            Categorias categoria = new Categorias();
+            categoria.Categoria = value;
+            context.Categorias.Add(categoria);
+            context.SaveChanges();
+            return string.Format("Nova Categoria");
         }
 
         public CompositeType GetDataUsingDataContract(CompositeType composite)

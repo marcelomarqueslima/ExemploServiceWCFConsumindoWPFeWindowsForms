@@ -1,0 +1,12 @@
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\bin\WcfServiceCategoria.dll.config
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\bin\WcfServiceCategoria.dll
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\bin\WcfServiceCategoria.pdb
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\obj\Debug\WcfServiceCategoria.csproj.AssemblyReference.cache
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\obj\Debug\WcfServiceCategoria.csproj.CoreCompileInputs.cache
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\obj\Debug\WcfServiceCategoria.dll
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\obj\Debug\WcfServiceCategoria.pdb
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\bin\EntityFramework.dll
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\bin\EntityFramework.SqlServer.dll
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\bin\EntityFramework.xml
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\bin\EntityFramework.SqlServer.xml
+C:\Users\mjcal\source\repos\ExemploServiceWCF\WcfServiceCategoria\obj\Debug\WcfServiceCategoria.csproj.CopyComplete
